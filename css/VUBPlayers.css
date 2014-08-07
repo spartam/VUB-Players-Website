@@ -1,0 +1,21 @@
+
+.index-wrap{
+	height: 100%;
+}
+
+.header-logo{
+	height: 20%;
+}
+
+.header-menu{
+	height: 10%;
+}
+
+.index-content{
+	min-height: 65%;
+}
+
+.footer{
+	height: 5%;
+	max-height: 50px;
+}
