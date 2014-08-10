@@ -1,0 +1,34 @@
+{
+   "menu" : {
+      "index" : {
+         "href" : "/",
+         "name" : "Home"
+      },
+      "Musical" : {
+         "href" : "/musical",
+         "name" : "Musical"
+      },
+      "theatre" : {
+         "href" : "/theatre",
+         "name" : "Theatre"
+      },
+      "pre_sale" : {
+         "href" : "/pre_sale",
+         "name" : "Pre Sale",
+         "disabled" : true
+      },
+      "contact" : {
+         "href" : "/contact",
+         "name" : "Contact"
+      },
+      "sponsor" : {
+         "href" : "/sponsor",
+         "name" : "Sponsor"
+      },
+      "media" : {
+         "href" : "/media",
+         "name" : "Media"
+      }
+   },
+   "logo" : "img/vub_players_logo.png"
+}

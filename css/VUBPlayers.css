@@ -1,10 +1,22 @@
+body, html{
+	height: 100%
+}
 
 .index-wrap{
 	height: 100%;
 }
 
 .header-logo{
-	height: 20%;
+	height: 30%;
+}
+
+.logo{
+	padding-top: 40px;
+	vertical-align: middle;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	max-height: 100%;
 }
 
 .header-menu{
@@ -12,10 +24,48 @@
 }
 
 .index-content{
-	min-height: 65%;
+	min-height: 55%;
 }
 
 .footer{
 	height: 5%;
 	max-height: 50px;
+}
+
+div.menu-item{
+	width: 14%;
+	float: left;
+}
+
+.menu-item a:hover{
+	color: black;
+}
+
+.menu-item a{
+	color: black;
+}
+
+a.menu-item{
+
+}
+
+/* css code from Rik from the original website */
+div.top-nav {
+	color: black;
+	font-family: malayalam;
+	font-size: 1.8em;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr.top-nav {
+	border-color: #cfcfcf;
+}
+
+hr {
+	margin: 20px 0;
+	border: 0;
+	border-top: 1px solid #eeeeee;
+	border-bottom: 1px solid white;
 }
